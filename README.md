@@ -13,6 +13,16 @@ blogs and articles from london javascript
 
 - [Jack Prior](https://medium.com/@jackprior)
 - [Chris Noring](https://medium.com/@noringc)
+- [Todd Motto](https://toddmotto.com/)
+Creator of Angular Utlimate platform, GDE
+- [Dan Wahlin](https://blog.codewithdan.com/)
+Dan Wahlin, speaker and Trainer in Angular, GDE
+- [Angular In DEpth](https://blog.angularindepth.com/)
+Probably the deepest going blog on anything Angular
+- [Kent Dodds](https://medium.com/@kentcdodds)
+@TC39 · @PayPalEng @eggheadio @FrontendMasters · #JS
+Great blog on anything React
+- [Great blog on CSS and JavaScript](https://css-tricks.com)
 
 
 
