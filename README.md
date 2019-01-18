@@ -24,6 +24,4 @@ Probably the deepest going blog on anything Angular
 Great blog on anything React
 - [CSS Tricks](https://css-tricks.com)
 Great blog on CSS and JavaScript
-
-
-
+- [Dan Abramov](https://overreacted.io/)
