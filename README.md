@@ -22,8 +22,8 @@ Probably the deepest going blog on anything Angular
 - [Kent Dodds](https://medium.com/@kentcdodds)
 @TC39 · @PayPalEng @eggheadio @FrontendMasters · #JS
 Great blog on anything React
-- [Great blog on CSS and JavaScript](https://css-tricks.com)
-
+- [CSS Tricks](https://css-tricks.com)
+Great blog on CSS and JavaScript
 
 
 
