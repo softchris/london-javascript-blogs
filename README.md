@@ -41,4 +41,6 @@ Pluralsight author. Cloud Developer Advocate at Microsoft. Known keynote speaker
 - [Addy Osmani](https://medium.com/@addyosmani)
 Team lead on the Chrome team
 - [David Walsh](https://davidwalsh.name/)
+- [Cory House](https://medium.com/@housecor)
+Great Pluralsight trainer and blogger. Focuses mostly on React.
 
