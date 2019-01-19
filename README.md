@@ -34,3 +34,11 @@ Web Platform architect @Intel, GDE, Works on Chrome and W3C specs, @W3CTAG membe
 Great Angular blog posts by @brechtbilliet and @kwintenp
 - [Gleb Bahmutov](https://glebbahmutov.com/blog/)
 Chief architect at Cypress, go test Cypress for your Angular/ React or Vue app, [Cypress](https://www.cypress.io/)
+- [John Papa](https://johnpapa.net)
+Pluralsight author. Cloud Developer Advocate at Microsoft. Known keynote speaker. Angular and Vue expert
+- [Ben Nadel](https://www.bennadel.com/)
+- [Tyler McGinnis](https://tylermcginnis.com/blog)
+- [Addy Osmani](https://medium.com/@addyosmani)
+Team lead on the Chrome team
+- [David Walsh](https://davidwalsh.name/)
+
