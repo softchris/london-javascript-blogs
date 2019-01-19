@@ -32,3 +32,5 @@ Great blog on CSS and JavaScript
 Web Platform architect @Intel, GDE, Works on Chrome and W3C specs, @W3CTAG member
 - [Strongbrew](https://blog.strongbrew.io/)
 Great Angular blog posts by @brechtbilliet and @kwintenp
+- [Gleb Bahmutov](https://glebbahmutov.com/blog/)
+Chief architect at Cypress, go test Cypress for your Angular/ React or Vue app, [Cypress](https://www.cypress.io/)
