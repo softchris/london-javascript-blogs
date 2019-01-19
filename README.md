@@ -27,10 +27,8 @@ Probably the deepest going blog on anything Angular
 Great blog on anything React
 - [CSS Tricks](https://css-tricks.com)
 Great blog on CSS and JavaScript
+- [Dan Abramov](https://overreacted.io/)
 - [Kenneth Rohde Christiansen](https://medium.com/@kennethrohde)
 Web Platform architect @Intel, GDE, Works on Chrome and W3C specs, @W3CTAG member
 - [Strongbrew](https://blog.strongbrew.io/)
-Great Angular blog posts by @brechtbilliet and @kwintenp 
-
-
-
+Great Angular blog posts by @brechtbilliet and @kwintenp
